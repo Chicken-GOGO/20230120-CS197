@@ -1,0 +1,8 @@
+name: cs197lec2
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - console_shortcut
+  - tqdm
+prefix: C:\Users\user\anaconda3\envs\cs197lec2
